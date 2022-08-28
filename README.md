@@ -4,7 +4,7 @@ I am now studying in Computer Science and Engineering department at American Int
 
 Skills:  HTML / CSS / Web development/ QA testing/ Digital Marketing /Ethical Hacking & Cyber Security 
 
-My Info:[ahsanul.shojib](https://www.facebook.com/ahsanul.shojib) 
+My Info:FB [ahsanul.shojib](https://www.facebook.com/ahsanul.shojib) 
 
 - 🔭 I’m currently working on Fiverr market place
 - 🔭 Near to achieve my Undergraduate Degree on BSc CSE program
@@ -12,7 +12,7 @@ My Info:[ahsanul.shojib](https://www.facebook.com/ahsanul.shojib)
 - 👯 I’m looking to collaborate on Social Media's platform
 - 🤔 I’m looking for help with audience gathering
 - 💬 Ask me about any kinds of web development courses, BSc CSE courses, Cyber security related topics etc..
-- 📫 How to reach me: Twitter- [shojibjr5](https://twitter.com/shojibjr5), LinkedIn- [@hasanmehedi360](https://www.linkedin.com/in/hasanmehedi360/),
+- 📫 How to reach me: Twitter- [shojibjr5](https://twitter.com/shojibjr5), [kazi-ahsanul-haque-shojib-69b727193](https://www.linkedin.com/in/kazi-ahsanul-haque-shojib-69b727193/)
  
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Can watch a cricket match for a long time
@@ -21,16 +21,16 @@ My Info:[ahsanul.shojib](https://www.facebook.com/ahsanul.shojib)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanmehedi365)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shojibjr5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmehedi365)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shojibjr5)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanmehedi365&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shojibjr5&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasanmehedi360)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shojibjr5)  
 
-![GitHub metrics](https://metrics.lecoq.io/hasanmehedi360)  
+![GitHub metrics](https://metrics.lecoq.io/shojibjr5)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hasanmehedi360)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shojibjr5)  
 
-![Profile views](https://gpvc.arturio.dev/hasanmehedi360)  
+![Profile views](https://gpvc.arturio.dev/shojibjr5)  
