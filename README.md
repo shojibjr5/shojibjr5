@@ -12,7 +12,7 @@ My Info:
 - 👯 I’m looking to collaborate on Social Media's platform
 - 🤔 I’m looking for help with audience gathering
 - 💬 Ask me about any kinds of web development courses, BSc CSE courses, Cyber security related topics etc..
-- 📫 How to reach me: Facebook [ahsanul.shojib](https://www.facebook.com/ahsanul.shojib) , Twitter- [shojibjr5](https://twitter.com/shojibjr5), Linkdin- [kazi-ahsanul-haque-shojib-69b727193](https://www.linkedin.com/in/kazi-ahsanul-haque-shojib-69b727193/)
+- 📫 How to reach me: Facebook [ahsanul.shojib](https://www.facebook.com/ahsanul.shojib) , Twitter- [shojibjr5](https://twitter.com/shojibjr5), Linkdin- [Ahsanul shojib](https://www.linkedin.com/in/ahsanulshojib/)]
  
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Can watch a cricket match for a long time
