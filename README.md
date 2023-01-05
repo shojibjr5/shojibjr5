@@ -1,6 +1,6 @@
 Hi there👋,This is Kazi Ahsanul Haque Shojib
 
-I am now studying in Computer Science and Engineering department at American Internation University- Bangladesh. I have completed many courses project, I love coding. I am also a professional Software QA tester.
+I am now studying in Computer Science and Engineering department at American Internation University- Bangladesh. I have completed many courses project, I love coding.  
 
 Skills:  HTML / CSS / Web development/ QA testing 
 
