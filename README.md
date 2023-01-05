@@ -2,13 +2,13 @@ Hi there👋,This is Kazi Ahsanul Haque Shojib
 
 I am now studying in Computer Science and Engineering department at American Internation University- Bangladesh. I have completed many courses project, I love coding. I am also a professional Software QA tester.
 
-Skills:  HTML / CSS / Web development/ QA testing/ Digital Marketing /Ethical Hacking & Cyber Security 
+Skills:  HTML / CSS / Web development/ QA testing 
 
 My Info:
 
-- 🔭 I’m currently working on Fiverr market place
+ 
 - 🔭 Near to achieve my Undergraduate Degree on BSc CSE program
-- 🌱 I’m currently learning Laravel, ReactJs, QA testing
+ 
 - 👯 I’m looking to collaborate on Social Media's platform
 - 🤔 I’m looking for help with audience gathering
 - 💬 Ask me about any kinds of web development courses, BSc CSE courses, Cyber security related topics etc..
