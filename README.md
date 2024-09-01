@@ -1,22 +1,31 @@
 Hi there👋,This is Kazi Ahsanul Haque Shojib
 
-I am now studying in Computer Science and Engineering department at American Internation University- Bangladesh. I have completed many courses project, I love coding.  
+I am a CSE graduate from American International University in Bangladesh. I have completed many courses and projects, and I love coding.  
 
-Skills:  HTML / CSS / Web development/ QA testing 
+Skills:  HTML / CSS / Web development/ QA testing / Supply Chain Analysis
 
 My Info:
 
+EDUCATIONAL QUALIFICATION :
+(2019-2023) 
+Bachelor of Science in Computer Science and Engineering 
+American International University-Bangladesh Major: Software Engineering 
+Thesis Domain: Software Development Life Cycle
+ CGPA: 3.75 on a scale of 4.00 
  
-- 🔭 Near to achieve my Undergraduate Degree on BSc CSE program
- 
-- 👯 I’m looking to collaborate on Social Media's platform
-- 🤔 I’m looking for help with audience gathering
-- 💬 Ask me about any kinds of web development courses, BSc CSE courses, Cyber security related topics etc..
-- 📫 How to reach me: Facebook [ahsanul.shojib](https://www.facebook.com/ahsanul.shojib) , Twitter- [shojibjr5](https://twitter.com/shojibjr5), Linkdin- [Ahsanul shojib](https://www.linkedin.com/in/ahsanulshojib/)]
- 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Can watch a cricket match for a long time
+(2016-2018) 
+Higher Secondary Certification 
+BAF Shaheen College Shamshernagar 
+Concentration Science 
+GPA: 4.75 on a scale of 5.00 
 
+(2014-2016) 
+Secondary School Certification
+Nabin Chandra Model High School 
+Concentration Science 
+GPA: 4.50 on a scale of 5.00
+
+   
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
